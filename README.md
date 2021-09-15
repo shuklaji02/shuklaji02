@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhaskar2002
 - 👀 I’m currently a beginner 😁
-- 🌱 I’m currently learning Java
+- 🌱 focusing on Java and Web Development
 
 - 📫 mail- ibhaskarshukla@gmail.com
 
