@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhaskar2002
-- 👀 I’m currently a beginner 😁
+- 👀 currently a beginner 😁
 - 🌱 focusing on Java and Web Development
 
 - 📫 mail- ibhaskarshukla@gmail.com
