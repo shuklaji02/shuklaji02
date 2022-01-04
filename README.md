@@ -1,5 +1,7 @@
 [![HitCount](http://hits.dwyl.com/bhaskar2002/bhaskar2002.svg?style=flat-square)](http://hits.dwyl.com/bhaskar2002/bhaskar2002)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar2002&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar2002" /> </p>
+
 
 - 👋 Hi, myself Bhaskar
 - 👀 currently a beginner 😁
