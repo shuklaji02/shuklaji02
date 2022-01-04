@@ -1,4 +1,4 @@
-**views**  [![HitCount](http://hits.dwyl.com/bhaskar2002/bhaskar2002.svg?style=flat-square)](http://hits.dwyl.com/bhaskar2002/bhaskar2002)
+[![HitCount](http://hits.dwyl.com/bhaskar2002/bhaskar2002.svg?style=flat-square)](http://hits.dwyl.com/bhaskar2002/bhaskar2002)
 
 
 - 👋 Hi, myself Bhaskar
