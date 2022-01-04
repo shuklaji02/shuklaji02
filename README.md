@@ -1,3 +1,6 @@
+**views**  [![HitCount](http://hits.dwyl.com/bhaskar2002/bhaskar2002.svg?style=flat-square)](http://hits.dwyl.com/bhaskar2002/bhaskar2002)
+
+
 - 👋 Hi, myself Bhaskar
 - 👀 currently a beginner 😁
 - 🌱 focusing on Java and Web Development
