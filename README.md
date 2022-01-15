@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhaskar2002&&show_icons=true&title_color=0BFB2B&icon_color=bb2acf&text_color=daf7dc&bg_color=090D5E">
+<img src="https://github-readme-stats.vercel.app/api?username=shuklaji02&&show_icons=true&title_color=0BFB2B&icon_color=bb2acf&text_color=daf7dc&bg_color=090D5E">
 
