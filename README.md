@@ -12,11 +12,6 @@
 <a href="https://www.instagram.com/bhaskarshukla02/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="bhaskarshukla02" height="40" width="40" /></a>
 </p>
 
-<!---
-Bhaskar2002/Bhaskar2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=shuklaji02&&show_icons=true&title_color=0BFB2B&icon_color=bb2acf&text_color=daf7dc&bg_color=090D5E">
 
