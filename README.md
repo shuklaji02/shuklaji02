@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhaskar920" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/shuklaji9/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="" height="40" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010623729331" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="" height="40" width="40" /></a>
-<a href="https://www.instagram.com/bhaskarshukla02/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="bhaskarshukla02" height="40" width="40" /></a>
+<a href="https://twitter.com/bhaskar920" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shuklaji9/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010623729331" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/bhaskarshukla02/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="bhaskarshukla02" height="40" width="40"/></a>
 </p>
 
 
