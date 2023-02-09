@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhaskar920" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="_k_a_a_l" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/shuklaji9/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="kaushik-lakhani-08012001" height="40" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010623729331" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="https://www.facebook.com/people/kaushik-lakhani/100008225834590/" height="40" width="40" /></a>
+<a href="https://twitter.com/bhaskar920" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shuklaji9/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010623729331" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="" height="40" width="40" /></a>
 <a href="https://www.instagram.com/bhaskarshukla02/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="bhaskarshukla02" height="40" width="40" /></a>
 </p>
 
